@@ -1,0 +1,14 @@
+{
+  "name": "drupal/bookmarks",
+  "type": "drupal-module",
+  "description": "Allowed bookmarks entity for administrate easiest by users.",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/bookmarks",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "http://drupal.org/project/issues/bookmarks",
+    "source": "http://cgit.drupalcode.org/bookmarks"
+  },
+  "require": { }
+}

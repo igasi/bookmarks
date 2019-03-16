@@ -1,0 +1,8 @@
+bookmarks:
+  version: 1.x
+  css:
+  js:
+    js/bookmark.js: {weight: -10}
+  dependencies:
+    - core/jquery
+    - core/jquery.once

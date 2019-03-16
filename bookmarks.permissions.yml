@@ -1,0 +1,19 @@
+add bookmark entities:
+  title: 'Create new Bookmark entities'
+
+administer bookmark entities:
+  title: 'Administer Bookmark entities'
+  description: 'Allow to access the administration form to configure Bookmark entities.'
+  restrict access: true
+
+delete bookmark entities:
+  title: 'Delete Bookmark entities'
+
+edit bookmark entities:
+  title: 'Edit Bookmark entities'
+
+view published bookmark entities:
+  title: 'View published Bookmark entities'
+
+view unpublished bookmark entities:
+  title: 'View unpublished Bookmark entities'

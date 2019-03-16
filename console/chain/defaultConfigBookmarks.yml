@@ -1,0 +1,9 @@
+commands:
+  - command: config:export:view
+    options:
+      module: bookmarks
+      optional-config: true
+      include-module-dependencies: true
+      learning: true
+    arguments:
+      view-id: bookmarks_por_usuario

@@ -1,0 +1,5 @@
+entity.bookmark.add_form:
+  route_name: entity.bookmark.add_form
+  title: 'Add Bookmark'
+  appears_on:
+    - entity.bookmark.collection

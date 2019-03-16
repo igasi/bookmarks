@@ -1,0 +1,14 @@
+name: Bookmarks
+type: module
+description: 'Allowed bookmarks entity for administrate easiest by users.'
+core: 8.x
+package: Letraslibres
+dependencies:
+    - user
+    - rest
+    - restui
+    - serialization
+    - hal
+    - basic_auth
+    - bookmarks
+    - node
